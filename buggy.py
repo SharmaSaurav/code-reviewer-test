@@ -1,3 +1,4 @@
+# TODO: fix all these bugs
 import os
 
 password = "supersecret123"
